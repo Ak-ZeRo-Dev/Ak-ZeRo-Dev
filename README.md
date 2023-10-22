@@ -2,11 +2,10 @@
 
 ###
 <div align="center">
-  <a href="https://git.io/typing-svg"
-    ><img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&random=false&lines=Fullstack+Developer"
+  <img
+      src="./images/title/fullstack-developer.svg"
       alt="Typing SVG"
-  /></a>
+  />
 </div>
 
 ###
