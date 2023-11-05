@@ -330,15 +330,6 @@
       alt="webpack logo"
     />
   </a>
-
-   <img width="5" />
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img
-      src="./images/languages&tools/amazonwebservices-original-wordmark.svg"
-      height="30"
-      alt="aws logo"
-    />
-  </a>
 </div>
 
 ###
