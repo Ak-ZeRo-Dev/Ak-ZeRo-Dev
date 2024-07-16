@@ -177,6 +177,11 @@
     />
   </a>
 
+  <img width="5" />
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  </a>
+
    <img width="5" />
   <a href="https://eslint.org/" target="_blank" rel="noreferrer">
     <img
@@ -232,6 +237,16 @@
     />
   </a>
 
+  <img width="5" />
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://nestjs.com/logo-small-gradient.76616405.svg" height="40" alt="nestjs logo"  />
+  </a>
+
+  <img width="5" />
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  </a>
+  
    <img width="5" />
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
@@ -239,6 +254,11 @@
       height="30"
       alt="mongodb logo"
     />
+  </a>
+
+  <img width="5" />
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   </a>
 
    <img width="5" />
@@ -310,24 +330,6 @@
       src="./images/languages&tools/github-original.svg"
       height="30"
       alt="github logo"
-    />
-  </a>
-
-   <img width="5" />
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img
-      src="./images/languages&tools/babeljs-icon.svg"
-      height="30"
-      alt="babel logo"
-    />
-  </a>
-
-   <img width="5" />
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="./images/languages&tools/webpack-original-wordmark.svg"
-      height="30"
-      alt="webpack logo"
     />
   </a>
 </div>
