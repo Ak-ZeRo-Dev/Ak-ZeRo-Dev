@@ -101,7 +101,7 @@
 
 <p align="left">
   - 🔭 I’m working as Fullstack Developer <br />- 📚 I'm currently learning
-  Python and C++ <br />- ⚡ In my free time I am playing online games or reading
+  Python <br />- ⚡ In my free time I am playing online games or reading
 </p>
 
 ###
