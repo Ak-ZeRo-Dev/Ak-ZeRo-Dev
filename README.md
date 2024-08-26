@@ -1,6 +1,7 @@
 <h1 align="center">Hey 👋, I'm Abdulrahman Alkurdi</h1>
 
 ###
+
 <div align="center">
   <img
       src="./images/title/fullstack-developer.svg"
@@ -111,7 +112,7 @@
 
 <p align="left">
   - 🔭 I’m working as Fullstack Developer <br />- 📚 I'm currently learning
-  Python <br />- ⚡ In my free time I am playing online games or reading
+  Nest.js <br />- ⚡ In my free time I am playing online games or reading
 </p>
 
 ###
@@ -129,7 +130,6 @@
     />
   </a>
 
-  
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="./images/languages&tools/css3-original.svg"
@@ -252,11 +252,11 @@
     <img src="https://nestjs.com/logo-small-gradient.76616405.svg" height="40" alt="nestjs logo"  />
   </a>
 
-  <img width="5" />
+  <!-- <img width="5" />
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  </a>
-  
+  </a> -->
+
    <img width="5" />
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
