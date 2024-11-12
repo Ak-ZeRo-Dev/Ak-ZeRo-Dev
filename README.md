@@ -139,15 +139,6 @@
   </a>
 
    <img width="5" />
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="./images/languages&tools/bootstrap-original.svg"
-      height="30"
-      alt="bootstrap logo"
-    />
-  </a>
-
-   <img width="5" />
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
       src="./images/languages&tools/tailwindcss-icon.svg"
