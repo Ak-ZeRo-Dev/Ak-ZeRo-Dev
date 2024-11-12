@@ -187,11 +187,6 @@
     />
   </a>
 
-  <img width="5" />
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  </a>
-
    <img width="5" />
   <a href="https://eslint.org/" target="_blank" rel="noreferrer">
     <img
