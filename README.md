@@ -12,11 +12,11 @@
 ###
 
 <div align="center">
-  <a href="mailto:AK-ZeRo@outlook.com"
+  <a href="mailto:abdulrahman.mahmoud.alkurdi@gmail.com"
     ><img src="./images/profile/gmail.svg" height="35" alt="gmail logo" />
   </a>
  <img width="5" />
-  <a href="mailto:AK-ZeRo@outlook.com"
+  <a href="mailto:abdulrahman.mahmoud.alkurdi@gmail.com"
     ><img
       src="./images/profile/outlook.svg"
       height="35"
@@ -257,7 +257,7 @@
 
   <img width="5" />
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
-    <img src="./images/languages&tools/redis-original-wordmark.svg" height="40" alt="redis logo"  />
+    <img src="./images/languages&tools/redis.svg" height="40" alt="redis logo"  />
   </a>
 
   <img width="5" />
