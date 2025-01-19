@@ -223,11 +223,19 @@
       alt="npm logo"
     />
   </a>
+   <img width="5" />
+  <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
+    <img
+      src="./images/languages&tools/file-type-light-pnpm.svg"
+      height="30"
+      alt="npm logo"
+    />
+  </a>
 
    <img width="5" />
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+      src="./images/languages&tools/express-original.svg"
       height="30"
       alt="express logo"
     />
@@ -235,13 +243,8 @@
 
   <img width="5" />
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://nestjs.com/logo-small-gradient.76616405.svg" height="40" alt="nestjs logo"  />
+    <img src="./images/languages&tools/nestjs.svg" height="40" alt="nestjs logo"  />
   </a>
-
-  <!-- <img width="5" />
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  </a> -->
 
    <img width="5" />
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -254,16 +257,12 @@
 
   <img width="5" />
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+    <img src="./images/languages&tools/redis-original-wordmark.svg" height="40" alt="redis logo"  />
   </a>
 
-   <img width="5" />
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="./images/languages&tools/getpostman-icon.svg"
-      height="30"
-      alt="postman logo"
-    />
+  <img width="5" />
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="./images/languages&tools/postgresql-plain.svg" height="40" alt="redis logo"  />
   </a>
 
    <img width="5" />
